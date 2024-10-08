@@ -1,0 +1,11 @@
+root/
+├── PlantVillage-Dataset/
+│   ├── Original/
+│   │   ├── color/
+│   │   ├── grayscale
+│   │   └── segmented/
+│   └── ...
+├── python_scripts/
+│   ├── expected_tree.txt
+│   └── ...
+└── ...
